@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Waleed Ahmed
+#  Hi, I'm Waleed Ahmed
 
 ### 💻 Computer Science Undergraduate | Aspiring DevOps Engineer
 
